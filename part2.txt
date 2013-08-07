@@ -1,1 +1,1 @@
-https://github.com/pookiege/bitstarter/blob/ace18d07886e4faae67b465e6fbb02c0c279a040/index.html
+https://raw.github.com/pookiege/bitstarter/e2f9432efe1445c35175f20b081732c5dbf2012b/index.html
